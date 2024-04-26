@@ -1,0 +1,946 @@
+==================================================
+gather all the data for ccf
+num of dates: 31 with num of stations:  3
+num of dates: 31 with num of ccfs:  1
+runing gcorr on rank= 7 for number of station pairs: 31
+runing gcorr on rank= 2 for number of station pairs: 31
+runing gcorr on rank= 3 for number of station pairs: 31
+runing gcorr on rank= 1 for number of station pairs: 31
+runing gcorr on rank= 11 for number of station pairs: 31
+runing gcorr on rank= 4 for number of station pairs: 31
+runing gcorr on rank= 10 for number of station pairs: 31
+runing gcorr on rank= 5 for number of station pairs: 31
+runing gcorr on rank= 8 for number of station pairs: 31
+runing gcorr on rank= 14 for number of station pairs: 31
+runing gcorr on rank= 19 for number of station pairs: 31
+runing gcorr on rank= 12 for number of station pairs: 31
+runing gcorr on rank= 13 for number of station pairs: 31
+runing gcorr on rank= 20 for number of station pairs: 31
+runing gcorr on rank= 16 for number of station pairs: 31
+runing gcorr on rank= 0 for number of station pairs: 31
+runing gcorr on rank= 6 for number of station pairs: 31
+runing gcorr on rank= 18 for number of station pairs: 31
+runing gcorr on rank= 9 for number of station pairs: 31
+runing gcorr on rank= 17 for number of station pairs: 31
+runing gcorr on rank= 22 for number of station pairs: 31
+runing gcorr on rank= 23 for number of station pairs: 31
+runing gcorr on rank= 26 for number of station pairs: 31
+runing gcorr on rank= 25 for number of station pairs: 31
+runing gcorr on rank= 28 for number of station pairs: 31
+runing gcorr on rank= 30 for number of station pairs: 31
+runing gcorr on rank= 15 for number of station pairs: 31
+runing gcorr on rank= 21 for number of station pairs: 31
+runing gcorr on rank= 24 for number of station pairs: 31
+runing gcorr on rank= 29 for number of station pairs: 31
+runing gcorr on rank= 27 for number of station pairs: 31
+stack_rms: 
+ il=14 with qk=1.000474
+stack_rms: 
+ il=17 with qk=1.000352
+stack_rms: 
+ il=70 with qk=1.000366
+stack_rms: 
+ il=71 with qk=1.000347
+stack_rms: 
+ il=81 with qk=1.000347
+stack_rms: 
+ il=82 with qk=1.001038
+stack_rms: 
+ il=83 with qk=1.000822
+stack_rms: 
+ il=84 with qk=1.000585
+stack_rms: 
+ nselect=85 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=5 with qk=1.000413
+stack_rms: 
+ il=12 with qk=1.000443
+stack_rms: 
+ il=17 with qk=1.000471
+stack_rms: 
+ il=18 with qk=1.000664
+stack_rms: 
+ il=19 with qk=1.000523
+stack_rms: 
+ il=20 with qk=1.000565
+stack_rms: 
+ il=46 with qk=1.000458
+stack_rms: 
+ il=72 with qk=1.000352
+stack_rms: 
+ nselect=85 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=9 with qk=1.000462
+stack_rms: 
+ il=11 with qk=1.000550
+stack_rms: 
+ il=12 with qk=1.000383
+stack_rms: 
+ il=77 with qk=1.000445
+stack_rms: 
+ il=78 with qk=1.000854
+stack_rms: 
+ il=79 with qk=1.000658
+stack_rms: 
+ il=80 with qk=1.000593
+stack_rms: 
+ il=81 with qk=1.000469
+stack_rms: 
+ nselect=85 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=11 with qk=1.000570
+stack_rms: 
+ il=12 with qk=1.000735
+stack_rms: 
+ il=58 with qk=1.000468
+stack_rms: 
+ il=64 with qk=1.000715
+stack_rms: 
+ il=65 with qk=1.000458
+stack_rms: 
+ il=72 with qk=1.000437
+stack_rms: 
+ il=73 with qk=1.000415
+stack_rms: 
+ il=79 with qk=1.000372
+stack_rms: 
+ il=80 with qk=1.000509
+stack_rms: 
+ nselect=84 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: stack_rms: 
+ il=14 with qk=1.000420
+stack_rms: 
+ il=15 with qk=1.000514
+stack_rms: 
+ il=16 with qk=1.000512
+stack_rms: 
+ il=17 with qk=1.000804
+stack_rms: 
+ il=18 with qk=1.000423
+
+ il=37 with qk=1.000347
+stack_rms: 
+ il=39 with qk=1.000610
+stack_rms: 
+ il=47 with qk=1.000440
+stack_rms: 
+ il=48 with qk=1.000794
+stack_rms: 
+ il=49 with qk=1.000374
+stack_rms: 
+ il=54 with qk=1.000605
+stack_rms: 
+ il=55 with qk=1.000698
+stack_rms: 
+ il=73 with qk=1.000407
+stack_rms: 
+ il=56 with qk=1.000843
+stack_rms: 
+ il=57 with qk=1.000451
+stack_rms: 
+ il=84 with qk=1.000391
+stack_rms: 
+ il=92 with qk=1.000371
+stack_rms: 
+ nselect=85 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=73 with qk=1.000358
+stack_rms: 
+ nselect=83 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: stack_rms: stack_rms: 
+ il=9 with qk=1.000403
+stack_rms: 
+ il=10 with qk=1.000423
+stack_rms: 
+ il=16 with qk=1.000350
+stack_rms: 
+ il=18 with qk=1.000481
+
+ il=28 with qk=1.000412
+stack_rms: 
+ il=29 with qk=1.000347
+stack_rms: 
+ il=29 with qk=1.000395
+stack_rms: 
+ il=14 with qk=1.000463
+stack_rms: 
+ il=61 with qk=1.000432
+stack_rms: 
+ il=62 with qk=1.000393
+stack_rms: 
+ il=23 with qk=1.000386
+stack_rms: 
+ il=24 with qk=1.000731
+stack_rms: 
+ il=25 with qk=1.000720
+stack_rms: 
+ il=26 with qk=1.000735
+stack_rms: 
+ il=27 with qk=1.000442
+stack_rms: 
+ il=28 with qk=1.000486
+stack_rms: 
+ il=37 with qk=1.000395
+stack_rms: 
+ il=40 with qk=1.000374
+stack_rms: 
+ il=87 with qk=1.000354
+stack_rms: 
+ il=91 with qk=1.000388
+stack_rms: 
+ il=92 with qk=1.000370
+stack_rms: 
+ nselect=87 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=50 with qk=1.000694
+stack_rms: 
+ il=51 with qk=1.000688
+stack_rms: 
+ il=52 with qk=1.000553
+stack_rms: 
+ nselect=87 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=57 with qk=1.000403
+
+ il=11 with qk=1.000487
+stack_rms: 
+ il=12 with qk=1.000640
+stack_rms: 
+ il=22 with qk=1.000437
+stack_rms: 
+ il=81 with qk=1.000524
+stack_rms: 
+ il=25 with qk=1.000350
+stack_rms: 
+ nselect=79 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=37 with qk=1.000616
+stack_rms: 
+ il=38 with qk=1.000870
+stack_rms: 
+ il=39 with qk=1.000680
+stack_rms: 
+ il=40 with qk=1.000444
+stack_rms: stack_rms: 
+ il=75 with qk=1.000470
+stack_rms: 
+ il=76 with qk=1.000434
+stack_rms: 
+ il=77 with qk=1.000503
+stack_rms: 
+ il=82 with qk=1.000658
+stack_rms: 
+ il=83 with qk=1.000457
+stack_rms: 
+ il=84 with qk=1.000479
+stack_rms: 
+ il=85 with qk=1.000549
+stack_rms: 
+ il=86 with qk=1.000432
+stack_rms: 
+ nselect=77 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+
+ il=14 with qk=1.000774
+stack_rms: 
+ il=15 with qk=1.000792
+stack_rms: 
+ il=16 with qk=1.000575
+stack_rms: 
+ il=17 with qk=1.000400
+stack_rms: 
+ il=47 with qk=1.000623
+stack_rms: 
+ il=48 with qk=1.000372
+stack_rms: 
+ il=59 with qk=1.000420
+stack_rms: 
+ il=60 with qk=1.000408
+stack_rms: stack_rms: 
+ nselect=85 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+
+ il=10 with qk=1.000531
+stack_rms: 
+ il=11 with qk=1.000403
+stack_rms: 
+ il=15 with qk=1.000473
+stack_rms: stack_rms: stack_rms: 
+ il=31 with qk=1.000529
+stack_rms: 
+ il=32 with qk=1.000460
+stack_rms: 
+ il=33 with qk=1.000498
+stack_rms: stack_rms: 
+ il=41 with qk=1.000460
+stack_rms: 
+ il=42 with qk=1.000504
+stack_rms: 
+ il=59 with qk=1.000475
+stack_rms: 
+ il=75 with qk=1.000426
+stack_rms: 
+ il=76 with qk=1.000518
+stack_rms: 
+ il=77 with qk=1.000585
+
+ il=5 with qk=1.000400
+stack_rms: 
+ il=7 with qk=1.000350
+stack_rms: 
+ il=86 with qk=1.000683
+stack_rms: stack_rms: 
+ il=14 with qk=1.000417
+stack_rms: 
+ il=15 with qk=1.000459
+
+ nselect=80 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+
+ il=18 with qk=1.000516
+stack_rms: 
+ il=19 with qk=1.000667
+stack_rms: 
+ il=20 with qk=1.000610
+stack_rms: 
+ il=21 with qk=1.000640
+stack_rms: 
+ il=22 with qk=1.000560
+stack_rms: 
+ il=30 with qk=1.000463
+stack_rms: 
+ il=31 with qk=1.000348
+stack_rms: 
+ il=32 with qk=1.000531
+stack_rms: 
+ il=33 with qk=1.000598
+
+ il=5 with qk=1.000380
+stack_rms: 
+ il=36 with qk=1.000382
+stack_rms: 
+ il=6 with qk=1.000646
+stack_rms: 
+ il=7 with qk=1.000882
+stack_rms: 
+ il=38 with qk=1.000359
+stack_rms: 
+ il=39 with qk=1.000614
+stack_rms: 
+ il=34 with qk=1.000403
+stack_rms: 
+ il=35 with qk=1.000378
+stack_rms: 
+ il=36 with qk=1.000811
+stack_rms: 
+ il=37 with qk=1.000589
+stack_rms: 
+ il=8 with qk=1.000699
+stack_rms: 
+ il=9 with qk=1.000675
+stack_rms: stack_rms: 
+ il=41 with qk=1.000358
+
+ il=10 with qk=1.000452
+stack_rms: 
+ il=12 with qk=1.000351
+stack_rms: 
+ il=48 with qk=1.000539
+stack_rms: 
+ il=45 with qk=1.000532
+stack_rms: 
+ il=49 with qk=1.000636
+stack_rms: 
+ il=55 with qk=1.000409
+stack_rms: 
+ il=56 with qk=1.000446
+stack_rms: 
+ il=57 with qk=1.000348
+stack_rms: 
+ il=65 with qk=1.000422
+stack_rms: 
+ il=73 with qk=1.000462
+stack_rms: 
+ il=74 with qk=1.000640
+stack_rms: 
+ il=75 with qk=1.000542
+stack_rms: 
+ il=89 with qk=1.000352
+stack_rms: 
+ il=90 with qk=1.000390
+stack_rms: 
+ il=91 with qk=1.000671
+stack_rms: 
+ nselect=70 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ nselect=82 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ nselect=86 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=10 with qk=1.000479
+stack_rms: 
+ il=16 with qk=1.000459
+stack_rms: 
+ il=17 with qk=1.000560
+stack_rms: 
+ il=18 with qk=1.000780
+stack_rms: 
+ il=19 with qk=1.000675
+stack_rms: 
+ il=33 with qk=1.000474
+stack_rms: 
+ il=35 with qk=1.000483
+stack_rms: 
+ il=36 with qk=1.000378
+stack_rms: 
+ il=38 with qk=1.000524
+stack_rms: 
+ il=39 with qk=1.000542
+stack_rms: 
+ il=40 with qk=1.000422
+stack_rms: 
+ il=41 with qk=1.000680
+stack_rms: 
+ il=47 with qk=1.000656
+stack_rms: 
+ il=69 with qk=1.000487
+stack_rms: 
+ il=70 with qk=1.000757
+stack_rms: 
+ il=71 with qk=1.000512
+stack_rms: 
+ il=83 with qk=1.000375
+stack_rms: 
+ il=84 with qk=1.000410
+stack_rms: 
+ il=85 with qk=1.000531
+stack_rms: 
+ il=86 with qk=1.000428
+stack_rms: 
+ il=88 with qk=1.000384
+stack_rms: 
+ il=89 with qk=1.000357
+stack_rms: 
+ nselect=71 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: stack_rms: 
+ il=2 with qk=1.000359
+stack_rms: 
+ il=4 with qk=1.000422
+stack_rms: 
+ il=21 with qk=1.000360
+stack_rms: 
+ il=23 with qk=1.000585
+stack_rms: 
+ il=29 with qk=1.000649
+stack_rms: 
+ il=30 with qk=1.000736
+stack_rms: 
+ il=31 with qk=1.000755
+stack_rms: 
+ il=32 with qk=1.000627
+
+ il=6 with qk=1.000396
+stack_rms: 
+ il=7 with qk=1.000466
+stack_rms: 
+ il=8 with qk=1.000587
+stack_rms: 
+ il=9 with qk=1.000628
+stack_rms: 
+ il=10 with qk=1.000473
+stack_rms: 
+ il=11 with qk=1.000556
+stack_rms: 
+ il=14 with qk=1.000414
+stack_rms: 
+ il=84 with qk=1.000370
+stack_rms: 
+ il=85 with qk=1.000484
+stack_rms: 
+ il=87 with qk=1.000389
+stack_rms: 
+ il=20 with qk=1.000410
+stack_rms: 
+ il=21 with qk=1.000739
+stack_rms: stack_rms: 
+ nselect=82 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+
+ il=22 with qk=1.000927
+stack_rms: 
+ il=23 with qk=1.000753
+stack_rms: 
+ il=24 with qk=1.000403
+stack_rms: 
+ il=49 with qk=1.000390
+stack_rms: 
+ il=50 with qk=1.000500
+stack_rms: 
+ il=51 with qk=1.000666
+stack_rms: 
+ il=52 with qk=1.000574
+stack_rms: 
+ il=53 with qk=1.000474
+stack_rms: 
+ il=73 with qk=1.000410
+stack_rms: 
+ nselect=75 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: stack_rms: 
+ il=37 with qk=1.000391
+stack_rms: 
+ il=42 with qk=1.000489
+stack_rms: 
+ il=43 with qk=1.000536
+stack_rms: 
+ il=44 with qk=1.000427
+stack_rms: 
+ il=51 with qk=1.000378
+stack_rms: 
+ il=52 with qk=1.000475
+stack_rms: 
+ il=53 with qk=1.000480
+stack_rms: 
+ il=54 with qk=1.000659
+stack_rms: 
+ il=55 with qk=1.000706
+stack_rms: 
+ il=56 with qk=1.000620
+stack_rms: 
+ il=57 with qk=1.000522
+
+ il=3 with qk=1.000439
+stack_rms: 
+ il=67 with qk=1.000535
+stack_rms: 
+ il=68 with qk=1.000416
+stack_rms: 
+ il=12 with qk=1.000422
+stack_rms: 
+ il=13 with qk=1.000411
+stack_rms: 
+ il=14 with qk=1.000494
+stack_rms: 
+ il=76 with qk=1.000349
+stack_rms: 
+ il=77 with qk=1.000596
+stack_rms: 
+ il=78 with qk=1.000522
+stack_rms: 
+ il=79 with qk=1.000474
+stack_rms: 
+ il=82 with qk=1.000457
+stack_rms: 
+ il=84 with qk=1.000360
+stack_rms: 
+ il=24 with qk=1.000538
+stack_rms: 
+ il=25 with qk=1.000460
+stack_rms: 
+ il=85 with qk=1.000416
+stack_rms: 
+ il=27 with qk=1.000456
+stack_rms: 
+ nselect=73 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=71 with qk=1.000433
+stack_rms: 
+ nselect=85 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=0 with qk=1.000663
+stack_rms: 
+ il=1 with qk=1.000389
+stack_rms: 
+ il=2 with qk=1.000967
+stack_rms: 
+ il=3 with qk=1.000484
+stack_rms: 
+ il=54 with qk=1.000394
+stack_rms: 
+ il=59 with qk=1.000495
+stack_rms: 
+ il=60 with qk=1.000519
+stack_rms: 
+ il=72 with qk=1.000434
+stack_rms: 
+ il=73 with qk=1.000532
+stack_rms: 
+ il=90 with qk=1.000438
+stack_rms: 
+ il=91 with qk=1.000355
+stack_rms: 
+ nselect=82 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=15 with qk=1.000409
+stack_rms: 
+ il=17 with qk=1.000456
+stack_rms: 
+ il=24 with qk=1.000355
+stack_rms: 
+ il=38 with qk=1.000454
+stack_rms: 
+ il=39 with qk=1.000615
+stack_rms: 
+ il=40 with qk=1.000407
+stack_rms: 
+ il=42 with qk=1.000369
+stack_rms: 
+ il=43 with qk=1.000578
+stack_rms: 
+ il=44 with qk=1.000587
+stack_rms: 
+ il=49 with qk=1.000488
+stack_rms: 
+ il=50 with qk=1.000685
+stack_rms: 
+ il=51 with qk=1.000360
+stack_rms: 
+ il=59 with qk=1.000402
+stack_rms: 
+ il=62 with qk=1.000439
+stack_rms: stack_rms: 
+ il=64 with qk=1.000422
+stack_rms: 
+ il=78 with qk=1.000373
+stack_rms: 
+ il=79 with qk=1.000595
+stack_rms: 
+ il=80 with qk=1.000423
+stack_rms: 
+ il=81 with qk=1.000501
+stack_rms: 
+ il=82 with qk=1.000480
+stack_rms: 
+ il=83 with qk=1.000372
+stack_rms: 
+ il=84 with qk=1.000582
+stack_rms: 
+ nselect=71 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+
+ il=7 with qk=1.000360
+stack_rms: 
+ il=8 with qk=1.000491
+stack_rms: 
+ il=10 with qk=1.000389
+stack_rms: 
+ il=13 with qk=1.000365
+stack_rms: 
+ il=15 with qk=1.000595
+stack_rms: 
+ il=16 with qk=1.000651
+stack_rms: 
+ il=17 with qk=1.000363
+stack_rms: 
+ il=20 with qk=1.000489
+stack_rms: 
+ il=21 with qk=1.000664
+stack_rms: 
+ il=22 with qk=1.000974
+stack_rms: 
+ il=23 with qk=1.000948
+stack_rms: 
+ il=24 with qk=1.000473
+stack_rms: 
+ il=25 with qk=1.000704
+stack_rms: 
+ il=26 with qk=1.000576
+stack_rms: 
+ il=28 with qk=1.000479
+stack_rms: 
+ il=36 with qk=1.000384
+stack_rms: 
+ il=40 with qk=1.000418
+stack_rms: 
+ il=41 with qk=1.000614
+stack_rms: 
+ il=42 with qk=1.000513
+stack_rms: 
+ il=58 with qk=1.000440
+stack_rms: 
+ il=59 with qk=1.000541
+stack_rms: 
+ il=60 with qk=1.000747
+stack_rms: 
+ il=61 with qk=1.000717
+stack_rms: 
+ il=62 with qk=1.000386
+stack_rms: 
+ il=63 with qk=1.000485
+stack_rms: 
+ il=64 with qk=1.000427
+stack_rms: 
+ il=66 with qk=1.000413
+stack_rms: 
+ nselect=66 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: stack_rms: stack_rms: 
+ il=35 with qk=1.000373
+stack_rms: 
+ il=36 with qk=1.000579
+
+ il=17 with qk=1.000543
+stack_rms: 
+ il=18 with qk=1.000509
+stack_rms: 
+ il=62 with qk=1.000453
+stack_rms: 
+ il=48 with qk=1.000414
+stack_rms: 
+ il=2 with qk=1.000358
+stack_rms: stack_rms: 
+ il=6 with qk=1.000385
+stack_rms: 
+ il=7 with qk=1.000386
+ nselect=90 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+
+stack_rms: stack_rms: 
+ il=69 with qk=1.000609
+
+ il=9 with qk=1.000906
+stack_rms: 
+ il=10 with qk=1.000783
+stack_rms: 
+ il=11 with qk=1.000584
+stack_rms: 
+ il=12 with qk=1.000727
+stack_rms: 
+ il=78 with qk=1.000356stack_rms: 
+ il=18 with qk=1.000441
+
+stack_rms: 
+ il=81 with qk=1.000607
+stack_rms: 
+ il=19 with qk=1.000569
+stack_rms: 
+ il=20 with qk=1.000472
+stack_rms: 
+ il=21 with qk=1.000538
+stack_rms: 
+ il=82 with qk=1.000366
+stack_rms: 
+ il=83 with qk=1.000609
+stack_rms: 
+ il=84 with qk=1.000735
+stack_rms: 
+ il=85 with qk=1.000657
+stack_rms: 
+ il=86 with qk=1.000705
+stack_rms: 
+ il=87 with qk=1.000668
+stack_rms: 
+ il=89 with qk=1.000348
+stack_rms: 
+ il=29 with qk=1.000349
+
+ il=18 with qk=1.000433
+stack_rms: 
+ nselect=80 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=22 with qk=1.000658
+stack_rms: 
+ il=23 with qk=1.000655
+stack_rms: 
+ il=32 with qk=1.000608
+stack_rms: 
+ il=45 with qk=1.000458
+stack_rms: 
+ il=34 with qk=1.000448
+stack_rms: 
+ il=35 with qk=1.000388
+stack_rms: 
+ il=59 with qk=1.000454
+stack_rms: 
+ il=80 with qk=1.000402
+stack_rms: 
+ il=66 with qk=1.000362
+stack_rms: 
+ il=81 with qk=1.000542
+stack_rms: 
+ il=82 with qk=1.000715
+stack_rms: 
+ il=83 with qk=1.000399
+stack_rms: 
+ il=92 with qk=1.000352
+stack_rms: 
+ nselect=75 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=91 with qk=1.000449
+stack_rms: 
+ il=92 with qk=1.000514
+stack_rms: 
+ nselect=83 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=4 with qk=1.000409
+stack_rms: 
+ il=5 with qk=1.000912
+stack_rms: 
+ il=6 with qk=1.000969
+stack_rms: 
+ il=7 with qk=1.000456
+stack_rms: 
+ il=8 with qk=1.000405
+stack_rms: 
+ il=10 with qk=1.000413
+stack_rms: 
+ il=11 with qk=1.000800
+stack_rms: 
+ il=12 with qk=1.000377
+stack_rms: 
+ il=14 with qk=1.000589
+stack_rms: 
+ il=45 with qk=1.000686
+stack_rms: 
+ il=58 with qk=1.000355
+stack_rms: 
+ il=67 with qk=1.000360
+stack_rms: 
+ il=68 with qk=1.000413
+stack_rms: 
+ nselect=80 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=6 with qk=1.000393
+stack_rms: 
+ il=8 with qk=1.000448
+stack_rms: stack_rms: 
+ il=27 with qk=1.000523
+stack_rms: 
+ il=28 with qk=1.000617
+stack_rms: 
+ il=29 with qk=1.001115
+stack_rms: 
+ il=30 with qk=1.001124
+stack_rms: 
+ il=31 with qk=1.001188
+stack_rms: 
+ il=32 with qk=1.000541
+stack_rms: 
+ il=37 with qk=1.000387
+stack_rms: 
+ il=38 with qk=1.000632
+stack_rms: 
+ il=39 with qk=1.000762
+stack_rms: 
+ il=45 with qk=1.000357
+
+ il=1 with qk=1.000382
+stack_rms: 
+ il=51 with qk=1.000367
+stack_rms: 
+ il=52 with qk=1.000776
+stack_rms: 
+ il=53 with qk=1.000757
+stack_rms: 
+ il=54 with qk=1.000766
+stack_rms: 
+ il=55 with qk=1.000529
+stack_rms: 
+ il=56 with qk=1.000486
+stack_rms: 
+ il=64 with qk=1.000351
+stack_rms: 
+ il=66 with qk=1.000647
+stack_rms: 
+ il=67 with qk=1.000650
+stack_rms: stack_rms: 
+ il=21 with qk=1.000367
+stack_rms: 
+ il=22 with qk=1.000392
+
+ il=68 with qk=1.000675
+stack_rms: 
+ il=69 with qk=1.000598
+stack_rms: 
+ il=23 with qk=1.000761
+stack_rms: 
+ il=24 with qk=1.000781
+stack_rms: 
+ il=25 with qk=1.000852
+stack_rms: 
+ il=26 with qk=1.000924
+stack_rms: 
+ il=27 with qk=1.000368
+stack_rms: 
+ il=28 with qk=1.000420
+stack_rms: 
+ il=82 with qk=1.000409
+stack_rms: 
+ il=83 with qk=1.000465
+stack_rms: 
+ il=84 with qk=1.000594
+stack_rms: 
+ il=85 with qk=1.000591
+stack_rms: 
+ il=86 with qk=1.000551
+stack_rms: 
+ il=41 with qk=1.000555
+stack_rms: 
+ nselect=65 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=44 with qk=1.000460
+stack_rms: 
+ il=59 with qk=1.000427
+stack_rms: 
+ il=60 with qk=1.000354
+stack_rms: 
+ il=75 with qk=1.000366
+stack_rms: 
+ il=76 with qk=1.000711
+stack_rms: 
+ il=77 with qk=1.000431
+stack_rms: 
+ il=78 with qk=1.000550
+stack_rms: 
+ il=79 with qk=1.000382
+stack_rms: 
+ il=81 with qk=1.000627
+stack_rms: 
+ il=82 with qk=1.000441
+stack_rms: 
+ il=87 with qk=1.000373
+stack_rms: 
+ nselect=72 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+stack_rms: 
+ il=0 with qk=1.000490
+stack_rms: 
+ il=11 with qk=1.000470
+stack_rms: 
+ il=12 with qk=1.000435
+stack_rms: 
+ il=13 with qk=1.000537
+stack_rms: 
+ il=14 with qk=1.000555
+stack_rms: 
+ il=25 with qk=1.000552
+stack_rms: 
+ il=45 with qk=1.000363
+stack_rms: 
+ il=57 with qk=1.000583
+stack_rms: 
+ nselect=85 with epsilon=1.000347,with fold=0,dist=78.889297,win1=-76.174751,win2=-44.174751,win3=-11.203205,win4=11.203205,win5=44.174751,win6=76.174751
+
+rms stacking running: 9.422714915
+1.00134 ===================================================

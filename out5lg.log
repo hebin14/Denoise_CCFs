@@ -1,0 +1,189 @@
+==================================================
+num of dates: 31
+..................................................iday=1
+..................................................iday=2
+..................................................iday=3
+..................................................iday=4
+..................................................iday=5
+..................................................iday=6
+..................................................iday=7
+..................................................iday=8
+..................................................iday=9
+..................................................iday=10
+..................................................iday=11
+..................................................iday=12
+..................................................iday=13
+..................................................iday=14
+..................................................iday=15
+..................................................iday=16
+..................................................iday=17
+..................................................iday=18
+..................................................iday=19
+..................................................iday=20
+..................................................iday=21
+..................................................iday=22
+..................................................iday=23
+..................................................iday=24
+..................................................iday=25
+..................................................iday=26
+..................................................iday=27
+..................................................iday=28
+..................................................iday=29
+..................................................iday=30
+..................................................iday=31
+runing gcorr on rank= 5 for number of station pairs: 31
+runing gcorr on rank= 7 for number of station pairs: 31
+runing gcorr on rank= 0 for number of station pairs: 31
+runing gcorr on rank= 11 for number of station pairs: 31
+runing gcorr on rank= 1 for number of station pairs: 31
+runing gcorr on rank= 6 for number of station pairs: 31
+runing gcorr on rank= 8 for number of station pairs: 31
+runing gcorr on rank= 12 for number of station pairs: 31
+runing gcorr on rank= 4 for number of station pairs: 31
+runing gcorr on rank= 2 for number of station pairs: 31
+runing gcorr on rank= 9 for number of station pairs: 31
+runing gcorr on rank= 22 for number of station pairs: 31
+runing gcorr on rank= 10 for number of station pairs: 31
+runing gcorr on rank= 17 for number of station pairs: 31
+runing gcorr on rank= 3 for number of station pairs: 31
+runing gcorr on rank= 14 for number of station pairs: 31
+runing gcorr on rank= 15 for number of station pairs: 31
+runing gcorr on rank= 13 for number of station pairs: 31
+runing gcorr on rank= 18 for number of station pairs: 31
+runing gcorr on rank= 20 for number of station pairs: 31
+runing gcorr on rank= 29 for number of station pairs: 31
+runing gcorr on rank= 16 for number of station pairs: 31
+runing gcorr on rank= 23 for number of station pairs: 31
+runing gcorr on rank= 19 for number of station pairs: 31
+runing gcorr on rank= 28 for number of station pairs: 31
+runing gcorr on rank= 21 for number of station pairs: 31
+runing gcorr on rank= 30 for number of station pairs: 31
+runing gcorr on rank= 27 for number of station pairs: 31
+runing gcorr on rank= 24 for number of station pairs: 31
+runing gcorr on rank= 25 for number of station pairs: 31
+runing gcorr on rank= 26 for number of station pairs: 31
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=false,fold_ccf=false
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: lstack: n1=961,d1=0.250000,o1=-120.000000
+n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+lstack: do_simi_stack=true,fold_ccf=false
+lstack: n1=961,d1=0.250000,o1=-120.000000
+rms stacking running: 6.349291572

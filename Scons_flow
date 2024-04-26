@@ -1,0 +1,58 @@
+
+from rsf.proj import *
+
+station1="TA.234A.BHZ"
+station2="TA.Z36A.BHZ"
+path="data/TA.234A_ZZ/"
+
+# plotpar = '''
+# label2="Amplitude" label1="Time(s)" plotfat=5 labelsz=12 labelfat=5 titlefat=5 axisfat=5  pclip=100 crowd2=0.7
+# '''
+
+# Plot('tr1','%s/%s.rsf'%(path,station1),'graph plotcol=6 title="234A-2010-1010"' + plotpar )
+# Plot('tr2','%s/%s.rsf'%(path,station2),'graph plotcol=6 title="Z36A-2010-1010"' + plotpar )
+# Result('noise','tr1 tr2','OverUnderAniso',vppen='txscale=1.2 fat=2.0')
+
+plotpar = '''
+wanttitle=n label2="Lag(s)" label1="Time(Day)" labelsz=12 transp=y wherexlabel="bottom"  
+scalebar=y  barwidth=0.3 wherexlabel=top barlabelsz=12 pclip=98
+'''
+Plot('gcorr','%s/gccf_%s_%s.rsf'%(path,station1,station2),' transp | grey color=j barlabel="Global correlation"' + plotpar)
+Plot('lcorr','%s/lccf_%s_%s.rsf'%(path,station1,station2),' transp | grey color=j barlabel="Local correlation"' + plotpar)
+Plot('lsimi','%s/simi_%s_%s.rsf'%(path,station1,station2),' transp | grey color=j barlabel="Similarity"' + plotpar)
+Result('corr_simi','gcorr lcorr lsimi ','SideBySideAniso',vppen='txscale=1.2 fat=10')
+
+
+plotpar = '''
+label2="Amplitude" label1="Time(s)" plotfat=5 labelsz=12 
+pclip=100 crowd2=0.7 wanttitle=n
+'''
+Plot('gstack','%s/gstack_%s_%s.rsf'%(path,station1,station2),' graph plotcol=6 ' + plotpar )
+Plot('lstack','%s/lstack_%s_%s.rsf'%(path,station1,station2),' graph plotcol=6 ' + plotpar )
+
+Result('stack','gstack lstack','OverUnderAniso',vppen='txscale=1.2 fat=10')
+
+plotpar = '''
+label2="Amplitude" label1="Frequency(Hz)" plotfat=5 labelsz=12  pclip=100 crowd2=0.7 wanttitle=n
+'''
+Plot('gfreq','%s/gfreq_%s_%s.rsf'%(path,station1,station2),'graph plotcol=6 ' + plotpar )
+Plot('lfreq','%s/lfreq_%s_%s.rsf'%(path,station1,station2),'graph plotcol=6 ' + plotpar )
+Result('freq','gfreq lfreq','OverUnderAniso',vppen='txscale=1.2 fat=10')
+
+plotpar = '''
+label2="Frequency(Hz)" label1="Time(s)" plotfat=5 labelsz=12  
+pclip=99 crowd2=0.68 wanttitle=n transp=n scalebar=y  barwidth=0.3 barlabelsz=12  bartype=h  wherebarlabel=bottom
+'''
+Plot('gtfreq','%s/gtfreq_%s_%s.rsf'%(path,station1,station2),' grey color=j ' + plotpar)
+Plot('ltfreq','%s/ltfreq_%s_%s.rsf'%(path,station1,station2),' grey color=j ' + plotpar)
+Result('timefreq','gtfreq ltfreq','OverUnderAniso',vppen='txscale=1.2 fat=10')
+
+# plotpar = '''
+# label1="Time(s)" plotfat=5 labelsz=12 pclip=100 crowd2=0.7
+# '''
+
+# Plot('convergent_gstack','%s/30.convergent_gstacking.rsf'%(path),'wiggle plotcol=7 label2="Number of Days stacked" title="Raw stack"' + plotpar )
+# Plot('convergent_lstack','%s/30.convergent_lstacking.rsf'%(path),'wiggle plotcol=7 title="Stack with local attributes"' + plotpar )
+# Result('convergent','convergent_gstack convergent_lstack','SideBySideAniso',vppen='txscale=1.2 fat=10')
+
+End()

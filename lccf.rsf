@@ -1,0 +1,18 @@
+3.2-git	asdfio	bxh220006/noise_snr/SB2:	bxh220006@ganymede.utdallas.edu	Mon Aug  7 18:06:48 2023
+
+	data_format="native_float"
+	esize=4
+	in="/home/bxh220006/scratch/tmp_space/mada/asdfioqKK7pl"
+	d1=0.1
+	n1=864001
+3.2-git	lcorr	bxh220006/noise_snr/SB2:	bxh220006@ganymede.utdallas.edu	Mon Aug  7 19:17:28 2023
+
+	o1=0
+	d2=0.1
+	n2=601
+	o2=-30
+	data_format="native_float"
+	esize=4
+	in="/home/bxh220006/scratch/tmp_space/mada/lccf.rsf@"
+	d1=24
+	n1=3600

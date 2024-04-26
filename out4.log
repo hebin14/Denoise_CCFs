@@ -1,0 +1,97 @@
+==================================================
+gather all the data for similarity processing
+num of dates: 31
+collecting ccf for similarity and threshold in day: 1 from  ./data/day00001,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 2 from  ./data/day00002,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 3 from  ./data/day00003,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 4 from  ./data/day00004,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 5 from  ./data/day00005,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 6 from  ./data/day00006,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 7 from  ./data/day00007,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 8 from  ./data/day00008,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 9 from  ./data/day00009,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 10 from  ./data/day00010,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 11 from  ./data/day00011,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 12 from  ./data/day00012,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 13 from  ./data/day00013,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 14 from  ./data/day00014,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 15 from  ./data/day00015,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 16 from  ./data/day00016,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 17 from  ./data/day00017,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 18 from  ./data/day00018,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 19 from  ./data/day00019,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 20 from  ./data/day00020,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 21 from  ./data/day00021,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 22 from  ./data/day00022,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 23 from  ./data/day00023,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 24 from  ./data/day00024,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 25 from  ./data/day00025,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 26 from  ./data/day00026,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 27 from  ./data/day00027,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 28 from  ./data/day00028,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 29 from  ./data/day00029,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 30 from  ./data/day00030,with num of station-pairs: 1
+collecting ccf for similarity and threshold in day: 31 from  ./data/day00031,with num of station-pairs: 1
+runing similarity on rank= 2 for number of stations: 31
+runing similarity on rank= 0 for number of stations: 31
+runing similarity on rank= 9 for number of stations: 31
+runing similarity on rank= 1 for number of stations: 31
+runing similarity on rank= 5 for number of stations: 31
+runing similarity on rank= 4 for number of stations: 31
+runing similarity on rank= 8 for number of stations: 31
+runing similarity on rank= 6 for number of stations: 31
+runing similarity on rank= 10 for number of stations: 31
+runing similarity on rank= 18 for number of stations: 31
+runing similarity on rank= 3 for number of stations: 31
+runing similarity on rank= 14 for number of stations: 31
+runing similarity on rank= 11 for number of stations: 31
+runing similarity on rank= 13 for number of stations: 31
+runing similarity on rank= 7 for number of stations: 31
+runing similarity on rank= 12 for number of stations: 31
+runing similarity on rank= 16 for number of stations: 31
+runing similarity on rank= 17 for number of stations: 31
+runing similarity on rank= 24 for number of stations: 31
+runing similarity on rank= 19 for number of stations: 31
+runing similarity on rank= 15 for number of stations: 31
+runing similarity on rank= 21 for number of stations: 31
+runing similarity on rank= 22 for number of stations: 31
+runing similarity on rank= 25 for number of stations: 31
+runing similarity on rank= 20 for number of stations: 31
+runing similarity on rank= 26 for number of stations: 31
+runing similarity on rank= 30 for number of stations: 31
+runing similarity on rank= 27 for number of stations: 31
+runing similarity on rank= 23 for number of stations: 31
+runing similarity on rank= 29 for number of stations: 31
+runing similarity on rank= 28 for number of stations: 31
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+similarity: record 1 of 1
+glob stacking running: 42.221420543

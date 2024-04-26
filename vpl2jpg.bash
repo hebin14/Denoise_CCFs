@@ -1,0 +1,1 @@
+vpconvert $1.vpl ppi=600 format=jpg color=y bgcolor=w

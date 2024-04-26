@@ -1,0 +1,18 @@
+3.2-git	asdfio	bxh220006/noise_snr/yellow:	bxh220006@ganymede.utdallas.edu	Mon Aug  7 20:29:00 2023
+
+	data_format="native_float"
+	esize=4
+	in="/home/bxh220006/scratch/tmp_space/mada/asdfio3ipZxF"
+	d1=0.02
+	n1=4320001
+3.2-git	lcorr	bxh220006/noise_snr/yellow:	bxh220006@ganymede.utdallas.edu	Tue Aug  8 09:00:20 2023
+
+	o1=0
+	d2=0.02
+	n2=1001
+	o2=-10
+	data_format="native_float"
+	esize=4
+	in="/home/bxh220006/scratch/tmp_space/mada/gcorr.rsf@"
+	d1=24
+	n1=3600

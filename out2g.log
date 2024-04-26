@@ -1,0 +1,66 @@
+==================================================
+gather all the data for ccf
+num of dates: 31 with num of ccfs:  1
+runing lcorr on rank= 2 for number of pair: 1
+runing lcorr on rank= 0 for number of pair: 1
+runing lcorr on rank= 12 for number of pair: 1
+runing lcorr on rank= 3 for number of pair: 1
+runing lcorr on rank= 10 for number of pair: 1
+runing lcorr on rank= 6 for number of pair: 1
+runing lcorr on rank= 4 for number of pair: 1
+runing lcorr on rank= 17 for number of pair: 1
+runing lcorr on rank= 13 for number of pair: 1
+runing lcorr on rank= 9 for number of pair: 1
+runing lcorr on rank= 5 for number of pair: 1
+runing lcorr on rank= 14 for number of pair: 1
+runing lcorr on rank= 8 for number of pair: 1
+runing lcorr on rank= 11 for number of pair: 1
+runing lcorr on rank= 25 for number of pair: 1
+runing lcorr on rank= 7 for number of pair: 1
+runing lcorr on rank= 1 for number of pair: 1
+runing lcorr on rank= 16 for number of pair: 1
+runing lcorr on rank= 19 for number of pair: 1
+runing lcorr on rank= 18 for number of pair: 1
+runing lcorr on rank= 21 for number of pair: 1
+runing lcorr on rank= 22 for number of pair: 1
+runing lcorr on rank= 28 for number of pair: 1
+runing lcorr on rank= 20 for number of pair: 1
+runing lcorr on rank= 23 for number of pair: 1
+runing lcorr on rank= 15 for number of pair: 1
+runing lcorr on rank= 26 for number of pair: 1
+runing lcorr on rank= 27 for number of pair: 1
+runing lcorr on rank= 29 for number of pair: 1
+runing lcorr on rank= 24 for number of pair: 1
+runing lcorr on rank= 30 for number of pair: 1
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: gcorr: gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+gcorr: n11=92,ltau=480,lgcorr=14400,loverlap=10800,d1=0.250000
+glob stacking running: 8.827541732
