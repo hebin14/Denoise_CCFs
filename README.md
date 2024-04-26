@@ -4,6 +4,7 @@ We use two local attributes and a fast solver for local crosscorrelation to deno
 # How to use
 
 The current version is based on Madagascar (https://www.reproducibility.org/wiki/Main_Page) and Noisepy (https://github.com/chengxinjiang/NoisePy)
+Find more details in README in branch trail_version.o
 
 # Other requirement
 
