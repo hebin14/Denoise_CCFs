@@ -8,3 +8,5 @@ The current version is based on Madagascar (https://www.reproducibility.org/wiki
 # Other requirement
 
 OpenMPI
+
+If you have questions about parallel computing for all virtual sources, please contact me at (binhebj@gmail.com)
