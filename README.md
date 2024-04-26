@@ -7,4 +7,4 @@ The current version is based on Madagascar (https://www.reproducibility.org/wiki
 
 # Other requirement
 
-MPI
+OpenMPI
