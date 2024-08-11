@@ -1,7 +1,7 @@
 # Denoise_CCFs
 We use two local attributes and a fast solver for local crosscorrelation to denoise the ambient noise CCFs for short-period/high-frequency recording, like a nodal array or DAS
 
-Please kindly cite our paper by Bin He, Hejun Zhu, David E Lumley. Improving signal-to-noise ratios of ambient noise cross-correlation functions using local attributes. ESS Open Archive . December 01, 2023.
+Please kindly cite our paper by Bin He, David Lumley and Hejun Zhu, Improving signal-to-noise ratios of ambient noise cross-correlation functions using local attributes, 2024, Geophysical Journal International, ggae228, https://doi.org/10.1093/gji/ggae228.
 
 
 # How to use
